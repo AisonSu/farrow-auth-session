@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.1 (2025-08-28)
+
 ### [1.1.1](https://github.com/AisonSu/farrow-session/compare/v1.1.0...v1.1.1) (2025-01-19)
 
 

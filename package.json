@@ -1,6 +1,6 @@
 {
   "name": "farrow-auth",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A flexible and decoupled authentication middleware for Farrow framework",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
